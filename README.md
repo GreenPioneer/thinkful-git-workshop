@@ -1,5 +1,5 @@
 
-git# thinkful-git-workshop
+# git thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
 Feel free to add your name and GitHub handle below
@@ -31,3 +31,4 @@ ___
 [Yvan Paquot](https://github.com/percevaus)<br/>
 [Nischal Ravichandran](https://github.com/nischalravichandran)<br/>
 [Muthu Kalimuthu](https://github.com/mkalimut)<br/>
+[Jason Humphrey](https://github.com/greenpioneer)<br/>
